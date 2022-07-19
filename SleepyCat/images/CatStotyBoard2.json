@@ -1,0 +1,35 @@
+{"frames": {
+
+"CachedBmp_12":
+{
+	"frame": {"x":0,"y":897,"w":1553,"h":539},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1553,"h":539},
+	"sourceSize": {"w":1553,"h":539}
+},
+"CachedBmp_18":
+{
+	"frame": {"x":0,"y":0,"w":1309,"h":895},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1309,"h":895},
+	"sourceSize": {"w":1309,"h":895}
+},
+"CachedBmp_21":
+{
+	"frame": {"x":0,"y":1438,"w":1712,"h":423},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1712,"h":423},
+	"sourceSize": {"w":1712,"h":423}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.5.191",
+	"image": "CatStotyBoard2.2_atlas_7.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

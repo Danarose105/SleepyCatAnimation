@@ -1,0 +1,83 @@
+﻿{"frames": {
+
+"CachedBmp_16":
+{
+	"frame": {"x":0,"y":0,"w":1288,"h":412},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1288,"h":412},
+	"sourceSize": {"w":1288,"h":412}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":1554,"y":476,"w":452,"h":521},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":521},
+	"sourceSize": {"w":452,"h":521}
+},
+"CachedBmp_27":
+{
+	"frame": {"x":773,"y":1046,"w":779,"h":473},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":779,"h":473},
+	"sourceSize": {"w":779,"h":473}
+},
+"CachedBmp_29":
+{
+	"frame": {"x":1444,"y":0,"w":499,"h":474},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":499,"h":474},
+	"sourceSize": {"w":499,"h":474}
+},
+"CachedBmp_33":
+{
+	"frame": {"x":0,"y":1046,"w":771,"h":541},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":771,"h":541},
+	"sourceSize": {"w":771,"h":541}
+},
+"CachedBmp_35":
+{
+	"frame": {"x":0,"y":414,"w":1442,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1442,"h":314},
+	"sourceSize": {"w":1442,"h":314}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":1080,"y":1521,"w":878,"h":329},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":878,"h":329},
+	"sourceSize": {"w":878,"h":329}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":0,"y":730,"w":1442,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1442,"h":314},
+	"sourceSize": {"w":1442,"h":314}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":0,"y":1589,"w":1078,"h":329},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1078,"h":329},
+	"sourceSize": {"w":1078,"h":329}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.5.191",
+	"image": "CatStotyBoard2.2_atlas_10.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
